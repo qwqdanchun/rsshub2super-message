@@ -1,3 +1,4 @@
 # rsshub2super-message
 
-搭配https://docs.super-message.com/使用
+搭配客户端：
+https://docs.super-message.com/
